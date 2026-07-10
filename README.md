@@ -1,4 +1,3 @@
-# Feature-Engineering-Model-Comparison
 # 🚀 Feature Engineering & Model Performance Comparison
 
 ## 📌 Project Overview
